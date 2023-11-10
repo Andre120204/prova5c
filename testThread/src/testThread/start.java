@@ -1,5 +1,8 @@
 package testThread;
 
-public class start {
+public static void main(string[] args)
+{
+   System.out.println("ciao");
 
+  
 }
