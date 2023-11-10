@@ -1,8 +1,10 @@
-package testThread;
 
-public static void main(string[] args)
+public class start{
+
+public static void main(String[] args)
 {
    System.out.println("ciao");
 
   
+}
 }
